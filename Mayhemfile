@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-nesasm
+target: nesasm
+
+cmds:
+  - cmd: /nesasm/nesasm @@
+    filepath: /test.s
